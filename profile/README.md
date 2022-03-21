@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-EternalCodeTeam is a Amazing Open Source projects organization! visit our website! [eternalcode.pl](https://eternalcode.pl) 
+The EternalCodeTeam is an amazing organization of Open Source projects! Visit our website! [eternalcode.pl](https://eternalcode.pl) 
