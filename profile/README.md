@@ -1,6 +1,6 @@
 👋 Greetings!
 
-Welcome to the enchanting realm of EternalCodeTeam, an extraordinary organization devoted to Open Source projects. Embark on an unforgettable journey by visiting our website at [eternalcode.pl](https://eternalcode.pl).
+Welcome to the inspiring realm of EternalCodeTeam, a remarkable organization devoted to Open Source projects. Begin an unforgettable journey by visiting our website at [eternalcode.pl](https://eternalcode.pl).
 
 🌟 Special Acknowledgements 🌟
 
