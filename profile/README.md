@@ -1,10 +1,6 @@
-# 👋 Greetings, Hacktoberfest Contributors!
+# 👋 Greetings, Contributors!
 
-Welcome to **EternalCodeTeam**, Open Source projects. Join us this **Hacktoberfest** and make your mark with meaningful contributions, whether you're a seasoned developer or just getting started.
-
-Learn more about us: [Hacktoberfest Discussion](https://github.com/orgs/EternalCodeTeam/discussions/857)
-
-![eternalcode-hacktoberfest](https://github.com/user-attachments/assets/1a85779f-7f8b-4a99-80da-ff72c8b35a03)
+Welcome to **EternalCodeTeam**, an open-source community dedicated to impactful projects. Join us in making meaningful contributions, whether you're a seasoned developer or just starting out.
 
 ## 🌟 Special Thanks to Our Supporters 🌟
 
@@ -21,4 +17,4 @@ We are grateful to our amazing partners:
 
 ---
 
-Contribute, learn, and let’s make this Hacktoberfest great! 🌍💻
+Contribute, learn, and let’s make a difference together! 🌍💻
