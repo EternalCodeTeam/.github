@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://github.com/EternalCodeTeam/.github/blob/master/assets/hacktoberfest-2025.png?raw=true" alt="Hacktoberfest 2025 - EternalCodeTeam" width="100%">
+  <img src="https://github.com/EternalCodeTeam/.github/blob/master/assets/hacktoberfest-2025.png?raw=true" 
+       alt="Hacktoberfest 2025 - EternalCodeTeam" 
+       width="100%" 
+       style="border-radius: 8px;">
 </p>
 
 # 🎃 Hacktoberfest 2025 @ EternalCodeTeam
