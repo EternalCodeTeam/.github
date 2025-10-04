@@ -1,11 +1,17 @@
 <p align="center">
-  <img src="https://github.com/EternalCodeTeam/.github/blob/master/assets/branding%20-%20discord%20banner.png?raw=true" alt="EternalCodeTeam Banner" width="100%">
+  <img src="https://github.com/EternalCodeTeam/.github/blob/master/assets/hacktoberfest-2025.png?raw=true" alt="Hacktoberfest 2025 - EternalCodeTeam" width="100%">
 </p>
 
+# 🎃 Hacktoberfest 2025 @ EternalCodeTeam
 
-# 🤝 Partners
+Celebrate open source with us this Hacktoberfest!  
+Contribute, learn, and build something meaningful together 🚀
 
-We are grateful to our amazing partners:
+---
+
+# 🤝 Our Partners
+
+We’re grateful to our amazing partners who support our open-source journey:
 
 | Partner | Description |
 |---------|-------------|
@@ -15,4 +21,5 @@ We are grateful to our amazing partners:
 
 ---
 
-Contribute, learn, and let’s make a difference together! 🌍💻
+💡 Want to join? Check out our repositories, pick an issue, and start contributing!  
+Together, let’s make Hacktoberfest 2025 unforgettable. 🌍💻
