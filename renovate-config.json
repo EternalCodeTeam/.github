@@ -16,49 +16,46 @@
       "matchUpdateTypes": [
         "patch"
       ],
+      "matchPackageNames": [
+        "!/^org\\.spigotmc:/"
+      ],
       "automerge": true,
       "labels": [
         "🔄 dependencies"
-      ],
-      "matchPackageNames": [
-        "*",
-        "!/org.spigotmc*/"
       ]
     },
     {
       "matchUpdateTypes": [
         "minor"
       ],
+      "matchPackageNames": [
+        "!/^org\\.spigotmc:/"
+      ],
       "automerge": true,
       "labels": [
         "🔄 dependencies"
-      ],
-      "matchPackageNames": [
-        "*",
-        "!/org.spigotmc*/"
       ]
     },
     {
       "matchUpdateTypes": [
         "major"
       ],
+      "matchPackageNames": [
+        "!/^org\\.spigotmc:/"
+      ],
       "automerge": false,
       "labels": [
         "🔄 dependencies"
-      ],
-      "matchPackageNames": [
-        "*",
-        "!/org.spigotmc*/"
       ]
     },
     {
+      "matchPackageNames": [
+        "/^org\\.spigotmc:/"
+      ],
       "allowedVersions": "/^\\d+\\.\\d+(\\.\\d+)?-R\\d+\\.\\d+-SNAPSHOT$/",
       "automerge": false,
       "labels": [
         "🔄 dependencies"
-      ],
-      "matchPackageNames": [
-        "/org.spigotmc*/"
       ]
     }
   ]
